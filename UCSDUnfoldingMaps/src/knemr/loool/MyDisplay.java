@@ -35,6 +35,7 @@ public class MyDisplay extends PApplet {
 		fill(color[0], color[1], color[2]);
 		ellipse(width/4, height/5, width/4, height/5);
 		
+		// here is my new change
 	}
 
 	private int[] sunColorSec(float seconds) {
